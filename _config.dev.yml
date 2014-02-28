@@ -1,7 +1,6 @@
 title:            Drake's Brewhouse North
 description:      A chronicle of my forray into DIY home improvement.
-url:              http://drakesbrewhouse.com
-destination:      /var/www/drakesbrewhouse.com/
+url:              http://dev.drakesbrewhouse.com
 
 owner:
   name:           Dennis Rogers
