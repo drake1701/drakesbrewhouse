@@ -1,15 +1,14 @@
-title:            Drake's Brewhouse North
-description:      A chronicle of my forray into DIY home improvement.
+title:            "Drake's Brewhouse North"
+description:      "A chronicle of my foray into DIY home improvement."
 disqus_shortname: drakesbrewhouse
 # Your site's domain goes here. Leave localhost server or blank when working locally.
 url:              http://www.drakesbrewhouse.com
-destination:      /var/www/drakesbrewhouse.com/
 
 # Owner/author information
 owner:
   name:           Dennis Rogers
   avatar:         avatar.jpg
-  bio:            "A web developer and tech professional, mostly not making things worse."
+  bio:            "I'm a web developer and tech professional, trying not to making things worse."
   email:          dennis@drogers.net
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   twitter:        _drogers
