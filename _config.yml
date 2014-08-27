@@ -42,6 +42,7 @@ permalink:   /:categories/:title/
 
 # Amount of post to show on home page
 paginate: 5
+excerpt_separator: <!--more-->
 
 kramdown:
   auto_ids: true
@@ -58,4 +59,4 @@ kramdown:
     coderay_css: class
 
 include: [".htaccess"]
-exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules"]
+exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "shell"]
