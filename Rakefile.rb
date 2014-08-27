@@ -1,5 +1,5 @@
 require "rubygems"
-require "bundler/setup"
+#require "bundler/setup"
 require "stringex"
 
 ## -- Config -- ##
@@ -36,10 +36,9 @@ task :new_post, :title do |t, args|
     post.puts "tags: [#{tags}]"
     post.puts "image:"
     post.puts "  feature: "
-    post.puts "  credit: "
-    post.puts "  creditlink: "
-    post.puts "comments: "
-    post.puts "share: "
+    post.puts "comments: true"
+    post.puts "share: true"
+    post.puts "noexcerpt: true"
     post.puts "---"
   end
 end
