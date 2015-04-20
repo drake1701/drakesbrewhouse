@@ -71,6 +71,10 @@ The remaining potential project is to repair or replace these rosettes. In the l
 
 Matching these with new wood will be almost impossible though, so we'll see what we end up doing.
 
+----
+
+Along with today's post I've tweaked the theme to include the site name in the header, as a "home" link. I've also installed a lightbox plugin for images, so you can see all the grainy details of my iPhone photos.
+
 My next few posts will be more side project "craft" type stuff, stay tuned.
 
 
