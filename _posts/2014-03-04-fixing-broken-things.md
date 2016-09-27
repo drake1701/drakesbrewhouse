@@ -8,7 +8,7 @@ share: true
 ---
 After spending last weekend acquiring the missing kitchen appliances, (Woo Craigslist) we turned on the water from the street to see if there are any plumbling issues.
 
-<img src="{{ site.url }}/images/jpeg.jpg" alt="jpeg" />
+<img src="{{ site.url }}/images/jpeg.jpg" title="jpeg" alt="jpeg" />
 
 There are.
 
