@@ -11,8 +11,8 @@ image:
 My first thought was to buy nice dimensional lumber and just use a router table to match it to the old pieces. I decided this would be a lot of work and Menard's had a fairly close [baseboard trim](https://www.menards.com/main/p-2284127-c-7609.htm) that cost me less than the bare wood.
 
 <figure class="half">
-<img src="{{site.url}}/images/trim-cutting/417-1481_ProPkPineColBse.jpg" title="417-1481_ProPkPineColBse" alt="Stock" alt="417-1481_ProPkPineColBse" alt="Stock" />
-<img src="{{site.url}}/images/trim-cutting/2014-11-30-15.00.48.jpg" title="417-1481_ProPkPineColBse" alt="Stock" alt="417-1481_ProPkPineColBse" alt="Stock" />
+<img src="{{site.url}}/images/trim-cutting/417-1481_ProPkPineColBse.jpg" alt="417-1481_ProPkPineColBse" alt="Stock" />
+<img src="{{site.url}}/images/trim-cutting/2014-11-30-15.00.48.jpg" alt="417-1481_ProPkPineColBse" alt="Stock" />
 <figcaption>Menards' stock photo, and one of the pieces I bought.</figcaption>
 </figure>
 
